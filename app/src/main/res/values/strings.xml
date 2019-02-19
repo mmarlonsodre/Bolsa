@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bolsa</string>
+    <string name="salvar">Salvar</string>
+    <string name="acao">Ação</string>
+    <string name="lista">Lista</string>
+    <string name="nome">Nome</string>
+    <string name="valor">Valor</string>
+    <string name="data">Data</string>
+    <string name="cadastro">Cadastro</string>
+</resources>

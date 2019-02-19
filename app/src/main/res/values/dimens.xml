@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titulo">25sp</dimen>
+    <dimen name="padding_Cadastro">10dp</dimen>
+    <dimen name="cadastro_size">25sp</dimen>
+    <dimen name="text_size">20sp</dimen>
+</resources>
